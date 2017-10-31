@@ -1,0 +1,7 @@
+body {
+	background:
+		linear-gradient(90deg, #CCC 3px, transparent 1%) center,
+		linear-gradient(#CCC 3px, transparent 1%) center,
+		#BBB;
+	background-size: 5px 5px;
+}
