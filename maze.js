@@ -354,7 +354,7 @@ function main() {
 	const maze1 = new Maze(rectCells);
 	const maze2 = new Maze(hexCells);
 	maze1.draw(rect_canvas, rect_ctx);
-	maze2.draw(rect_canvas, hex_ctx);
+	maze2.draw(hex_canvas, hex_ctx);
 }
 
 main();
